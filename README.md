@@ -4,7 +4,6 @@ Document Chatbot Using Gemini Pro Model And RAG
 
 # Doctor Document
 
-## Overview
 
 **Doctor Document** is an advanced AI chatbot built using the Retrieval-Augmented Generation (RAG) framework, leveraging Google's Generative AI model Gemini-PRO. This application processes uploaded PDF documents by breaking them down into manageable chunks, creates a searchable vector store, and generates accurate answers to user queries. This ensures high-quality, contextually relevant responses for an efficient and effective user experience.
 
